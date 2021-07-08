@@ -1,0 +1,125 @@
+<type name="SeaChest">
+        tem name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="VitaminBottle" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="PainkillerTablets" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="TetracyclineAntibiotics" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <cargo chance="1">
+            <item name="DisinfectantSpray" />
+        </cargo>
+        <hoarder />
+    </type>
